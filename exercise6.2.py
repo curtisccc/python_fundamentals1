@@ -23,3 +23,5 @@ while energy >= 3:
     
     if energy <= 0:
         energy = 0
+
+        
